@@ -11,7 +11,7 @@ var simpleContent = [
    text: "Margherita"
  }, {
    id: "pep",
-   text: "Peperoni"
+   text: "Pepperoni"
  }, {
    id: 42,
    text: "Ham"

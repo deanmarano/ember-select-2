@@ -13,8 +13,8 @@ var ExamplesController = Ember.Controller.extend({
       description: "The original italian one"
     }, {
       id: "pep",
-      text: "Peperoni",
-      description: "For the Peperoni lovers"
+      text: "Pepperoni",
+      description: "For the Pepperoni lovers"
     }, {
       id: "ham",
       text: "Ham",
